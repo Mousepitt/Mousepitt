@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Mousepitt
+- 👀 I’m interested in making a change in my career path. 
+- 🌱 I’m currently learning using The Odin Project, Free Code Camp, and looking to re-enroll in college. 
